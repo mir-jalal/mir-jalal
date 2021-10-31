@@ -9,7 +9,7 @@ My name is Mir Jalal Hashimli and I'm a Software Developer / DevOps Engineer. I'
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-connect-informational?style=social&logo=Linkedin&logoColor=0A66C2)](https://linkedin.com/in/mirjalalhashimli) &nbsp;
 [![Gitlab](https://img.shields.io/badge/Gitlab-informational?style=social&logo=Gitlab&logoColor=FCA121)](https://gitlab.com/mir.jalal) &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-contact-informational?style=social&logo=Telegram&logoColor=26A5E4)](https://https://t.me/mir_jalal_hashimli) &nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-contact-informational?style=social&logo=Telegram&logoColor=26A5E4)](https://t.me/mir_jalal_hashimli) &nbsp;
 
 ## 📈 My Stats
 ___
