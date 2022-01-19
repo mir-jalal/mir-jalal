@@ -3,7 +3,7 @@
 ___
 
 ## 👋 Hello, folks!
-My name is Mir Jalal Hashimli and I'm a Software Developer / DevOps Engineer. I'm Software Engineering Student at University of Tartu and currently looking for a job.
+My name is Mir Jalal Hashimli and I'm a Software Developer / DevOps Engineer. I'm Software Engineering Student at University of Tartu.
 
 ## 📲 You can find me on:
 
