@@ -56,11 +56,11 @@ gantt
     The first project in Spring: milestone,spring, 2019-04-05,
     Started DevOps: milestone, devops, 2020-12-31,
     section Education
-    BMU: done, 2016-09-15, 2021-07-01
-    UT: active, 2021-09-01, 2023-07-01
+    BMU - Information Technologies: done, 2016-09-15, 2021-07-01
+    UT - Software Engineering: active, 2021-09-01, 2023-07-01
     section Work
-    E-Government DevOps: done, 2021-02-15, 2021-05-31
-    1oT: active, 2022-02-01, 2022-04-30
+    E-Government - DevOps: done, 2021-02-15, 2021-05-31
+    1oT - Software Engineer: active, 2022-02-01, 2022-04-30
 ```
 </div>
 </div>
