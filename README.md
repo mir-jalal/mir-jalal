@@ -38,7 +38,32 @@ ___
 ![Gitlab](https://img.shields.io/badge/CI/CD-Gitlab-informational?style=flat&logo=Gitlab&logoColor=white&color=FCA121)
 ![Git](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=Git&logoColor=F05032&color=F05032)
 
+## 🕑 Timeline
 
+<div class="x-scrollable">
+<div style="width: 1800px;">
+  
+```mermaid
+gantt
+    title My Journey
+    dateFormat  YYYY-MM-DD
+    todayMarker stroke-width:5px,stroke:#0f0,opacity:0.5
+    section Programming
+    Started Learning C/C++  : milestone, m1, 2016-09-17,
+    Started Java : milestone, java, 2017-12-12,
+    The first commit in Github: milestone, m2, 2018-01-06,
+    Started Python: milestone, python, 2018-09-20,
+    The first project in Spring: milestone,spring, 2019-04-05,
+    Started DevOps: milestone, devops, 2020-12-31,
+    section Education
+    BMU: done, 2016-09-15, 2021-07-01
+    UT: active, 2021-09-01, 2023-07-01
+    section Work
+    E-Government DevOps: done, 2021-02-15, 2021-05-31
+    1oT: active, 2022-02-01, 2022-04-30
+```
+</div>
+</div>
 
 <!--
 **mir-jalal/mir-jalal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
