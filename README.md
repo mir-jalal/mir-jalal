@@ -3,6 +3,8 @@
 ___
 
 ## 👋 Hello, folks!
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mir-jalal&hide=javascript,html&theme=onedark&langs_count=3)" />
 My name is Mir Jalal Hashimli and I'm a Software Developer / DevOps Engineer. I'm Software Engineering Student at University of Tartu.
 
 ## 📲 You can find me on:
