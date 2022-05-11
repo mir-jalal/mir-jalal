@@ -14,8 +14,10 @@ My name is Mir Jalal Hashimli and I'm a Software Developer / DevOps Engineer. I'
 ## 📈 My Stats
 ___
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=mir-jalal&theme=onedark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mir-jalal&hide=javascript,html&theme=onedark&langs_count=3)" />
+<img src="https://activity-graph.herokuapp.com/graph?username=mir-jalal&theme=github" />
+<img src="https://github-readme-stats.vercel.app/api/?username=mir-jalal&theme=onedark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mir-jalal&hide=javascript,html&theme=onedark&langs_count=3)" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=mir-jalal&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
 
 ## ‍💻 Technologies
 ___
