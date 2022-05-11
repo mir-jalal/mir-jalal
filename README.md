@@ -4,7 +4,7 @@ ___
 
 ## 👋 Hello, folks!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mir-jalal&hide=javascript,html&theme=onedark&langs_count=3)" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mir-jalal&hide=javascript,html&theme=one&langs_count=3)" />
 My name is Mir Jalal Hashimli and I'm a Software Developer / DevOps Engineer. I'm Software Engineering Student at University of Tartu.
 
 ## 📲 You can find me on:
@@ -16,10 +16,10 @@ My name is Mir Jalal Hashimli and I'm a Software Developer / DevOps Engineer. I'
 ## 📈 My Stats
 ___
 
-<img src="https://activity-graph.herokuapp.com/graph?username=mir-jalal&theme=github" />
+<img src="https://activity-graph.herokuapp.com/graph?username=mir-jalal&theme=github-light" />
 <p align="middle">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/?username=mir-jalal&theme=onedark" />
-  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=mir-jalal&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/?username=mir-jalal&theme=one" />
+  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=mir-jalal&theme=one&date_format=M%20j%5B%2C%20Y%5D" />
   <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mir-jalal&hide=javascript,html&theme=onedark&langs_count=3)" />
   -->
