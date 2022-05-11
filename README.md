@@ -16,8 +16,8 @@ ___
 
 <img src="https://activity-graph.herokuapp.com/graph?username=mir-jalal&theme=github" />
 <p align="middle">
-  <img src="https://github-readme-stats.vercel.app/api/?username=mir-jalal&theme=onedark" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=mir-jalal&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/?username=mir-jalal&theme=onedark" />
+  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=mir-jalal&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
   <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mir-jalal&hide=javascript,html&theme=onedark&langs_count=3)" />
   -->
