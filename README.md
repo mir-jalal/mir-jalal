@@ -13,18 +13,6 @@ My name is Mir Jalal Hashimli and I'm a Software Engineer. Here you can find a f
 [![Gitlab](https://img.shields.io/badge/Gitlab-informational?style=social&logo=Gitlab&logoColor=FCA121)](https://gitlab.com/mir-jalal) &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-contact-informational?style=social&logo=Telegram&logoColor=26A5E4)](https://t.me/mir_jalal_hashimli) &nbsp;
 
-## 📈 My Stats
-___
-
-<img src="https://activity-graph.herokuapp.com/graph?username=mir-jalal&theme=github-light" />
-<p align="middle">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/?username=mir-jalal&theme=one" />
-  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=mir-jalal&theme=one&date_format=M%20j%5B%2C%20Y%5D" />
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mir-jalal&hide=javascript,html&theme=onedark&langs_count=3)" />
-  -->
-</p>
-
 ## ‍💻 Technologies
 ___
 
@@ -35,7 +23,6 @@ ___
 ![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GnuBash&logoColor=white&color=4EAA25)
 ![IDE](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=2bbc8a)
 ![VIM](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=VIM&logoColor=019733&color=019733)
-![Atom](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&logoColor=white&color=2bbc8a)
 ![Postgres](https://img.shields.io/badge/Tool-Postgres-informational?style=flat&logo=Postgresql&logoColor=white&color=4169E1)
 ![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=2496ED&color=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=326CE5&color=326CE5)
@@ -45,8 +32,6 @@ ___
 ![Ansible](https://img.shields.io/badge/Tool-Ansible-informational?style=flat&logo=Ansible&logoColor&color=EE0000)
 ![Gitlab](https://img.shields.io/badge/CI/CD-Gitlab-informational?style=flat&logo=Gitlab&logoColor=white&color=FCA121)
 ![Git](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=Git&logoColor=F05032&color=F05032)
-
-
 
 <!--
 **mir-jalal/mir-jalal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
